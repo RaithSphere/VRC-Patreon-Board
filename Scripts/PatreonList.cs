@@ -43,7 +43,7 @@ namespace CytraX
                         {
                             if (contributorsToken.TokenType == TokenType.DataList)
                             {
-                                PatreonNameList += $"<color=red>{key}</color><br>";
+                                PatreonNameList += $"<color=red>{key}</color><br><br>";
 
                                 string[] PatreonNames = new string[contributorsToken.DataList.Count];
                                 for (int i = 0; i < contributorsToken.DataList.Count; i++)
