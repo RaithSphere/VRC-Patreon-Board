@@ -4177,7 +4177,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: f59140145a1535348943ce47bd017715, type: 2}
-  - {fileID: 2100000, guid: 701dd7c589db913439e88caa8d11b7fb, type: 2}
+  - {fileID: 2100000, guid: c09fceef5e2cc194386b9c0a046cf6f1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4416,9 +4416,8 @@ MonoBehaviour:
     Please delete this text once
     you have setup everythign you need'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 7498af94d90c6c9489872bf3a3b2161b, type: 2}
-  m_sharedMaterial: {fileID: 1865565464680025941, guid: 7498af94d90c6c9489872bf3a3b2161b,
-    type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4781,7 +4780,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8f1b40ba9290b704d8795df71e8b300a, type: 2}
+  - {fileID: 2100000, guid: 51c79197c4cbfea4d9a2ccdf671b5aa4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
